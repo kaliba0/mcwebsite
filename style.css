@@ -85,7 +85,6 @@ header .navbar {
 
 .navbar .navlink {
     padding: 0 20px;
-    font-weight: 100;
 }
 
 .section1 {
@@ -94,6 +93,10 @@ header .navbar {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.section1 img {
+    height: 85%;
 }
 
 .section1 .title {
